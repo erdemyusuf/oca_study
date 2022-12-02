@@ -2,10 +2,10 @@ package new_version.Q041ToQ060.q050;
 
 public class Q050 {
     public static void main(String[] args) {
-        //double y1=203.22; float fit=y1;
+      //  double y1=203.22; float fit=y1;
         float fit=(float)1_11.00;
         System.out.println(fit);
-        //Float fit2=100.00;
+       // Float fit2=100.00;
         int y2=100;float fit3=(float)y2;
         System.out.println(fit3);
         Float fit4=100.00F;

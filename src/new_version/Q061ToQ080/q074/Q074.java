@@ -10,7 +10,7 @@ public class Q074 {
         System.out.println("Checking Card");
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception { //throws Exception eklenmeli
         Q074 ex=new Q074();
         int cardNo=12344;
         ex.readCard(cardNo);   //line n2

@@ -10,7 +10,7 @@ package new_version.Q041ToQ060.q051;
  }
 
 class ReportTool extends Tool implements Exportable {
-//    protected void export(){  //line n2
+//   protected void export(){  //line n2
 //        System.out.println("RTool:export");
 //    }
     public void export(){  //line n2

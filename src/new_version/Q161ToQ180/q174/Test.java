@@ -39,7 +39,7 @@ public class Test {
 */
 
 /*
- Answer: C
+ Answer: A
 Hello Java SE 8
 Hello Java SE 8
  */
